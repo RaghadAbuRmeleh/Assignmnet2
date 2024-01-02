@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Assignmnet2</string>
+
+    <string-array name="type">
+        <item>Olympic Weightlifting</item>
+        <item>Plyometrics</item>
+        <item>Powerlifting</item>
+        <item>Strength</item>
+        <item>Stretching</item>
+        <item>Strongman</item>
+    </string-array>
+
+    <string-array name="muscle">
+        <item>abdominals</item>
+        <item>abductors</item>
+        <item>adductors</item>
+        <item>biceps</item>
+        <item>calves</item>
+        <item>chest</item>
+        <item>forearms</item>
+        <item>glutes</item>
+        <item>hamstrings</item>
+        <item>lats</item>
+        <item>lower_back</item>
+        <item>middle_back</item>
+        <item>neck</item>
+        <item>quadriceps</item>
+        <item>traps</item>
+        <item>triceps</item>
+    </string-array>
+
+    <string-array name="difficulty">
+        <item>beginner</item>
+        <item>intermidate</item>
+        <item>expert</item>
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
+
